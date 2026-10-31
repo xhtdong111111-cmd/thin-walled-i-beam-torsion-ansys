@@ -67,13 +67,17 @@ The study focuses on analytical validation, mesh convergence, geometric nonlinea
 ![Finite element mesh](mesh.png)
 
 ### 3. Simulation Results
-![Result 1](results1.png)
-![Result 2](results2.png)
-![Result 3](results3.png)
-![Result 4](results4.png)
-![Result 5](results5.png)
-![Result 6](results6.png)
-![Result 7](results7.png)
+#### 3.1 Total Deformation
+![Total Deformation](totaldeformation.png)
+
+#### 3.2 Directional Deformation
+![Directional Deformation](directionaldeformation.png)
+
+#### 3.3 Equivalent (von-Mises) Stress
+![Equivalent Stress](equivalentstress.png)
+
+#### 3.4 Moment Reaction
+![Moment Reaction](momentreaction.png)
 
 
 ## Author
