@@ -19,7 +19,11 @@ This project focuses on finite element analysis (FEA) of a structural component 
 
 ## Project Files
 
-- **Technical Report:** [Kết Cấu Hàng Không.pdf](./K%E1%BA%BFt%20C%E1%BA%A5u%20H%C3%A0ng%20Kh%C3%B4ng.pdf)
+
+- **Technical Report:** [View Technical Report (PDF)](./K%E1%BA%BFt%20C%E1%BA%A5u%20H%C3%A0ng%20Kh%C3%B4ng.pdf)
+- **ANSYS Workbench Project:** [Download Simulation Files (.wbpz)](https://drive.google.com/file/d/1uBZFMIjrbGo5diQqN1BCQNm2amkFDVgs/view?usp=drive_link)
+- **Simulation Images:** See the Simulation Gallery below.
+
 
 ## Results and Validation
 
