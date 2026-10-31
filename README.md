@@ -58,7 +58,23 @@ The study focuses on analytical validation, mesh convergence, geometric nonlinea
 
 ## Simulation Gallery
 
-See the images in this repository for geometry, mesh generation, and simulation results.
+
+### 1. Geometry
+
+![Geometry model](geomestry.png)
+
+### 2. Finite Element Mesh
+![Finite element mesh](mesh.png)
+
+### 3. Simulation Results
+![Result 1](results1.png)
+![Result 2](results2.png)
+![Result 3](results3.png)
+![Result 4](results4.png)
+![Result 5](results5.png)
+![Result 6](results6.png)
+![Result 7](results7.png)
+
 
 ## Author
 
