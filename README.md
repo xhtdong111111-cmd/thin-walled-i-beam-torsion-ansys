@@ -5,6 +5,10 @@
 This project investigates the torsional behavior and warping effects of a thin-walled open-section I-beam using Vlasov's thin-walled beam theory and Finite Element Analysis (FEA) in ANSYS Mechanical.
 
 The study focuses on analytical validation, mesh convergence, geometric nonlinearity, and elastic-plastic material behavior.
+Investigate torsional behavior of a thin-walled open-section I-beam.
+Evaluate warping effects under applied torque.
+Compare analytical predictions with finite element results.
+Investigate geometric and material nonlinearities.
 
 ## Engineering Model
 
